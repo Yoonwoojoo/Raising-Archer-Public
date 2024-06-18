@@ -78,9 +78,11 @@
 <br><br>
 
 ## :notebook: 기술 스택
-#### 제너릭 싱글톤
+#### Generic Singleton
 제너릭 싱글톤을 활용하여 다양한 매니저들을 관리
 <br>
+
+#### Scriptable Object
 스크립테이블을 활용하여 플레이어와 몬스터의 데이터를 관리
 <br>
 스탯 및 보유한 재화(골드, 크리스탈)과 같은 중요한 데이터는 PlayerStats 및 PlayerStatsHandler로 관리
